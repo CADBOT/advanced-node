@@ -1,0 +1,3 @@
+Use a bitmap to track employee attence
+
+convert Unix style line endings to windows style line endings

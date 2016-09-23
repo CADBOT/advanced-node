@@ -1,0 +1,2 @@
+1. Create a gzip client and server
+2. Create a transform version of line endings program
